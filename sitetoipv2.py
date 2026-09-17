@@ -18,11 +18,6 @@ banner = """
 {} ___) | |  | | | |___  |_____|   | || |_| | |_____|  | ||  __/ 
 {}|____/___| |_| |_____|           |_| \___/          |___|_|v2 
                                                                
-
-                     {}CODED BY TUX-MACG1V
-              TG:https://t.me/I_am_a_silent_killer
-        {}Note : Domaine List Shoud Be Without http:// & /
-
             """.format(g, r, oo, c, r, g, r, o)
 
 
